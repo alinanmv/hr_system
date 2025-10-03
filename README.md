@@ -1,10 +1,20 @@
-# React + Vite
+📌 About the Project  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HR management system built with Vue 2.7 and Vuex.  
 
-Currently, two official plugins are available:
+Features:  
+🔐 Login with two-factor authentication  
+📊 Dashboard with cards: employee performance, clock, weather, currency converter (API)  
+👥 Employee table (mock data) with pagination and filtering  
+📈 Analytics: statistics by users, departments, and activity  
+📝 Modal window for editing users directly from the table  
+👤 User profile with avatar upload and personal data editing  
+🍔 Burger-style navigation with responsive UI  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-# project1
+🛠 Tech Stack  
+Vue 2.7  
+Vuex (state management)  
+Chart.js (analytics and charts)  
+Vue Router  
+API integrations (currency rates, weather)  
+CSS
