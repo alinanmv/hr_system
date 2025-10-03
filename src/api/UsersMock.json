@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Александр Петров",
+      "email": "alexander.petrov@company.com",
+      "role": "Senior Developer",
+      "isActive": true,
+      "department": "IT",
+      "salary": 120000,
+      "date": "2022-12-10"
+    },
+    {
+      "id": 2,
+      "name": "Мария Иванова",
+      "email": "maria.ivanova@company.com",
+      "role": "Project Manager",
+      "isActive": true,
+      "department": "Management",
+      "salary": 95000,
+      "date": "2021-01-20"
+    },
+    {
+      "id": 3,
+      "name": "Дмитрий Сидоров",
+      "email": "dmitry.sidorov@company.com",
+      "role": "UI/UX Designer",
+      "isActive": true,
+      "department": "Design",
+      "salary": 75000,
+      "date": "2019-08-13"
+    },
+    {
+      "id": 4,
+      "name": "Елена Козлова",
+      "email": "elena.kozlova@company.com",
+      "role": "Marketing Specialist",
+      "isActive": false,
+      "department": "Marketing",
+      "salary": 65000,
+      "date": "2024-07-16"
+    },
+    {
+      "id": 5,
+      "name": "Андрей Волков",
+      "email": "andrey.volkov@company.com",
+      "role": "DevOps Engineer",
+      "isActive": true,
+      "department": "IT",
+      "salary": 110000,
+      "date": "2020-04-23"
+    },
+    {
+      "id": 6,
+      "name": "Сергей Михайлов",
+      "email": "sergey.mikhailov@company.com",
+      "role": "Senior Developer",
+      "isActive": true,
+      "department": "IT",
+      "salary": 105000,
+      "date": "2017-03-10"
+    },
+    {
+      "id": 7,
+      "name": "Анна Смирнова",
+      "email": "anna.smirnova@company.com",
+      "role": "UI/UX Designer",
+      "isActive": true,
+      "department": "Design",
+      "salary": 82000,
+      "date": "2022-12-10"
+    },
+    {
+      "id": 8,
+      "name": "Павел Кузнецов",
+      "email": "pavel.kuznetsov@company.com",
+      "role": "DevOps Engineer",
+      "isActive": true,
+      "department": "IT",
+      "salary": 115000,
+      "date": "2021-01-20"
+    },
+    {
+      "id": 9,
+      "name": "Ольга Васильева",
+      "email": "olga.vasileva@company.com",
+      "role": "Marketing Specialist",
+      "isActive": true,
+      "department": "Marketing",
+      "salary": 70000,
+      "date": "2019-08-13"
+    },
+    {
+      "id": 10,
+      "name": "Игорь Морозов",
+      "email": "igor.morozov@company.com",
+      "role": "Project Manager",
+      "isActive": false,
+      "department": "Management",
+      "salary": 98000,
+      "date": "2024-07-16"
+    },
+    {
+      "id": 11,
+      "name": "Ксения Фролова",
+      "email": "ksenia.frolova@company.com",
+      "role": "UI/UX Designer",
+      "isActive": true,
+      "department": "Design",
+      "salary": 77000,
+      "date": "2022-12-10"
+    },
+    {
+      "id": 12,
+      "name": "Владислав Павлов",
+      "email": "vladislav.pavlov@company.com",
+      "role": "Senior Developer",
+      "isActive": true,
+      "department": "IT",
+      "salary": 125000,
+      "date": "2019-08-13"
+    },
+    {
+      "id": 13,
+      "name": "Екатерина Белова",
+      "email": "ekaterina.belova@company.com",
+      "role": "Marketing Specialist",
+      "isActive": false,
+      "department": "Marketing",
+      "salary": 68000,
+      "date": "2019-08-13"
+    },
+    {
+      "id": 14,
+      "name": "Денис Григорьев",
+      "email": "denis.grigorev@company.com",
+      "role": "DevOps Engineer",
+      "isActive": true,
+      "department": "IT",
+      "salary": 118000,
+      "date": "2020-08-13"
+    },
+    {
+      "id": 15,
+      "name": "Асаля Зуфарова",
+      "email": "asalya.zufarova@company.com",
+      "role": "Project Manager",
+      "isActive": true,
+      "department": "Management",
+      "salary": 90000,
+      "date": "2016-08-24"
+    }
+  ],
+  "meta": {
+    "total": 15,
+    "page": 1,
+    "perPage": 5
+  }
+}

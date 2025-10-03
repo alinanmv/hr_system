@@ -1,0 +1,170 @@
+{
+  "login_page": {
+    "login": "Login",
+    "desc": "Enter your details to log in",
+    "email": "Email",
+    "password": "Password",
+    "forgot": "Forgot password?",
+    "no_accout": "No account?",
+    "registration": "Sign up",
+    "test": "Test data for login:"
+  },
+  "dashboard": {
+    "breadcrumb": "HR System > Dashboard",
+    "title": "Dashboard",
+    "desc": "System overview and quick access to main functions",
+    "weather": "Weather",
+    "converter": "Converter",
+    "status": "System status",
+    "cards": "Dashboard cards"
+  },
+  "menu": {
+    "app_name": "HR System",
+    "navigation": "Navigation",
+    "dashboard": "Dashboard",
+    "employees": "Employees",
+    "analytics": "Analytics",
+    "profile": "Profile",
+    "settings": "Settings",
+    "dark_theme": "Dark theme",
+    "language": "Language",
+    "logout": "Log out",
+    "toggle": "Toggle menu"
+  },
+  "cards": {
+    "time_title": "Current time",
+    "time_tashkent": "Tashkent time",
+    "date_title": "Today's date",
+    "workday": "Working day",
+    "perf_title": "Performance",
+    "all_ok": "All services operational",
+    "depts_title": "Departments",
+    "perf_great": "Excellent performance"
+  },
+  "weather": {
+    "title": "Weather",
+    "city": "Tashkent",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "last_update": "Last update"
+  },
+  "converter": {
+    "title": "Currency Converter",
+    "subtitle": "Convert currencies at live rates",
+    "amount_usd": "Amount (USD)",
+    "usd": "USD",
+    "uzs": "UZS",
+    "rub": "RUB",
+    "rates_realtime": "* Exchange rates are updated in real time",
+    "last_update": "Last update"
+  },
+  "status": {
+    "title": "Latest activity",
+    "subtitle": "Recent actions in the system",
+    "profile_updated": "User profile updated",
+    "new_employee": "New employee added",
+    "analytics_updated": "Analytics data updated",
+    "data_export": "Data export completed",
+    "system": "System",
+    "info": "Info",
+    "success": "Success",
+    "minutes_ago": "minutes ago",
+    "hours_ago": " hour ago",
+    "hours_ago_plural": " hours ago"
+  },
+  "employees": {
+    "breadcrumb": "HR System > Employees",
+    "title": "Employee management",
+    "subtitle": "Employee data management system with analytics"
+  },
+  "table": {
+    "title": "Employee list",
+    "subtitle": "Manage employee data: search, sort, edit",
+    "search_ph": "Search by name, email",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "department": "Department",
+    "salary": "Salary",
+    "hire_date": "Hire date",
+    "status": "Status",
+    "action": "Action",
+    "active": "Active",
+    "inactive": "Inactive",
+    "shown": "Showing {shown} of {total} records",
+    "prev": "‹ Previous",
+    "next": "Next ›"
+  },
+  "emp_cards": {
+    "total": "Total employees",
+    "in_db": "In database",
+    "active": "Active employees",
+    "active_now": "Active now",
+    "avg_salary": "Average salary",
+    "across_all": "Across all employees",
+    "departments": "Departments",
+    "unique_depts": "Unique departments"
+  },
+  "modal": {
+    "title": "Edit form",
+    "name": "Name",
+    "email": "E-mail",
+    "role": "Role",
+    "department": "Department",
+    "salary": "Salary",
+    "hire_date": "Hire date",
+    "active": "Active",
+    "inactive": "Inactive",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "personal": {
+    "title": "Personal Information",
+    "subtitle": "Update your personal information",
+    "name": "Name",
+    "name_ph": "John Doe",
+    "birthdate": "Birthdate",
+    "email": "Email",
+    "email_ph": "user@example.com",
+    "role": "Role",
+    "role_ph": "Administrator",
+    "role_note": "The role is assigned by the administrator",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "avatar": {
+    "title": "Avatar",
+    "subtitle": "Upload a new profile picture",
+    "change": "Change avatar",
+    "recommended": "Recommended size: 200x200px"
+  },
+  "profile": {
+    "breadcrumb": "HR System > Profile",
+    "title": "User profile",
+    "subtitle": "Manage your personal information and account settings",
+    "stats_title": "Account statistics",
+    "stats_subtitle": "Information about your activity in the system",
+    "days_in_system": "Days in the system",
+    "logins": "System logins",
+    "profile_updates": "Profile updates",
+    "activity": "Activity"
+  },
+  "auth": {
+    "title": "Two-Factor Authentication",
+    "desc": "Enter the 6-digit code from your authentication app",
+    "label": "Two-Factor Authentication Code",
+    "button": "Confirm",
+    "test": "Test code: 123456"
+  },
+    "analytics": {
+    "breadcrumb": "HR System > Analytics",
+    "title": "Analytics",
+    "subtitle": "Employee data analysis and departmental statistics",
+      "heading": "Employees by department",
+    "count":"Number of employees by department",
+    "status": "Employee's activity",
+    "status_desc": "Active and Inactive employess",
+    "dynamics": "Dynamics",
+    "dynamics_desc" : "Number of new employees by months"
+  }
+}
