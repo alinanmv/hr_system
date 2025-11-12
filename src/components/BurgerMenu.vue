@@ -308,7 +308,7 @@ li {
 }
 .profile_left {
   display: flex;
-
+  width: 100%;
   align-items: center;
   gap: 10px;
 }
@@ -414,7 +414,7 @@ button:hover {
 }
 .profile {
   display: flex;
-  width: 100%;
+  width: 90%;
   padding-left: 5px;
   flex-direction: row;
   align-items: center;
@@ -423,7 +423,8 @@ button:hover {
 .nav_bottom {
   display: flex;
   align-items: end;
-  height: 56%;
+  height: 60%;
+  width: 90%;
 }
 #log_out {
   display: flex;
